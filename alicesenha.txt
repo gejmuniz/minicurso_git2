@@ -1,1 +1,0 @@
-eu gerei um token valido por 30 dias para conseguir usar o git push
